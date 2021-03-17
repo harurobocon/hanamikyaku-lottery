@@ -1,18 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
 table {
-    width: 50%;
+    width: 40%;
+    display: inline-flex;
 }
 
 td, th {
     text-align: center;
     height: 100px;
-    width: 12%;
+    width: 10vh;
     background-color:limegreen;
 }
 
 .table-index {
-    background-color: white;
+    background-color: transparent;
 }
 
-#startzone {
+#startzone-red {
     background-color: red;
+}
+
+#startzone-blue {
+    color: white;
+    background-color: blue;
+}
+
+#red-court {
+    background-color: lavenderblush;
+}
+
+#blue-court {
+    background-color: lightcyan;
+}
+
+.result-wrapper {
+    display: flexbox;
 }
