@@ -1,2 +1,3 @@
 # hanamikyaku-lottery
-花見客を抽選する
+
+https://harurobocon.github.io/hanamikyaku-lottery/
